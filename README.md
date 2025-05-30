@@ -28,5 +28,5 @@ Some numbered points
 int main(){
 }
 ```
-[Click here](https://gitam.edu)
+[Click here](https://apply.gitam.edu/)
 
